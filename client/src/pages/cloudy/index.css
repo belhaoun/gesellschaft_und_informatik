@@ -1,0 +1,25 @@
+.cloudy {
+    width: 500px;
+    /* height: calc(100% - 84px); */
+    height: 500px;
+    margin: auto;
+    margin-top: 40px;
+}
+
+.home-paragraph {
+    border: solid 1px;
+    border-radius: 5px;
+    padding: 20px 10px;
+    width: 300px;
+    margin: auto;
+    background-color: #bcaaa4;
+    border-color: #8c7b75;
+    color: #321911;
+    margin-bottom: 20px;
+}
+
+.home-button {
+    width: 145px;
+    margin: auto;
+    margin-top: 20px;
+}

@@ -1,0 +1,37 @@
+.flights {
+    height: calc(100% - 84px);
+    margin: auto;
+}
+
+.flights-paragraph {
+    border: solid 1px;
+    border-radius: 5px;
+    padding: 20px 10px;
+    width: 300px;
+    margin: auto;
+    background-color: #bcaaa4;
+    border-color: #8c7b75;
+    color: #321911;
+    margin-bottom: 20px;
+}
+
+.flights-button {
+    width: 145px;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.flights-map-container {
+    height: calc(100% - 58px);
+}
+
+.flights-map-container > div {
+    width: 100%;
+    height: calc(100%);
+}
+
+.home-paragraph-container {
+    /* border: solid; */
+    padding-top: 100px;
+    height: 500px !important;
+}

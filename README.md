@@ -1,1 +1,1 @@
-# gesellschaft_und_informatik
+Instructions about the project in the PDF "Geselschaft und Informatik.pdf"
